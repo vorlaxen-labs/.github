@@ -8,7 +8,7 @@
 Vorlaxen Labs is a technical laboratory focused on engineering high-performance tools, secure backend ecosystems, and developer-first utilities. We bridge the gap between complex architecture and intuitive implementation.
 
 ### Active Projects
-*   **BaR (Backend and Runtime)**: A standardized toolkit for modern web development, focusing on modularity and consistent execution environments.
+*   **BaR (Builder a Response)**: A specialized toolkit designed to standardize and streamline backend response structures for modern web applications.
 
 ### Core Focus Areas
 *   **Advanced Web Security**: Researching JWT vulnerabilities and implementing robust authentication protocols.
