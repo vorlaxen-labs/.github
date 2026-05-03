@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/vorlaxen-labs/.github/main/profile/images/banner.png" width="45" height="45" /> Vorlaxen Labs
+# Vorlaxen Labs
 
 **Building the Next Generation of Scalable Software Architecture & Creative Digital Solutions.**
 
@@ -9,7 +9,6 @@ Vorlaxen Labs is a technical laboratory focused on engineering high-performance 
 
 ### 🛠 Active Projects
 *   **BaR (Backend and Runtime)**: A standardized toolkit for modern web development, focusing on modularity and consistent execution environments.
-*   **MektupX**: A specialized digital communication platform designed for structured correspondence.
 
 ### 🛡 Core Focus Areas
 *   **Advanced Web Security**: Researching JWT vulnerabilities and implementing robust authentication protocols.
