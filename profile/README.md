@@ -9,6 +9,9 @@ Vorlaxen Labs is a technical laboratory focused on engineering high-performance 
 
 ### Active Projects
 *   **BaR (Builder a Response)**: A specialized toolkit designed to standardize and streamline backend response structures for modern web applications.
+*   **HuK (Helper & Utility Kit)**: A lightweight, modular TypeScript utility library providing a "smart helper" ecosystem for string manipulation, security, and environment management.
+
+Core Focus Areas
 
 ### Core Focus Areas
 *   **Advanced Web Security**: Researching JWT vulnerabilities and implementing robust authentication protocols.
