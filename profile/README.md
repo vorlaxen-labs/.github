@@ -7,7 +7,7 @@
 [![agent-skills](https://img.shields.io/npm/v/%40vorlaxen-labs/agent-skills?label=agent-skills&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/agent-skills)
 [![XERJ Hub](https://img.shields.io/badge/XERJ_Hub-bar--js-7c3aed)](https://hub.xerj.org/corpus/vorlaxen-labs--bar-js)
 
-Vorlaxen Labs is an independent organization in Türkiye. We turn what fascinates us into things people use. The public work is open source, mostly TypeScript and Node.js: backend tools, agent skills, and the DevOps around shipping them.
+Vorlaxen Labs is an independent global organization. We turn what fascinates us into things people use. The public work is open source, mostly TypeScript and Node.js: backend tools, agent skills, and the DevOps around shipping them.
 
 When a need is real, we get close to it. We try, revise, and keep going until people can trust the tool. How an idea sounds matters less than what it does in someone's hands. If people cannot understand it, use it, or trust it, it is not finished.
 
