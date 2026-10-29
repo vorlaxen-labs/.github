@@ -1,29 +1,21 @@
 # Vorlaxen Labs
 
-**Building the Next Generation of Scalable Software Architecture & Creative Digital Solutions.**
+We turn what fascinates us into things people use. Most of that is TypeScript and Node.js. Some of it is a robot. We are in Türkiye.
 
----
+## Repos
 
-### About the Lab
-Vorlaxen Labs is a technical laboratory focused on engineering high-performance tools, secure backend ecosystems, and developer-first utilities. We bridge the gap between complex architecture and intuitive implementation.
+[bar-js](https://github.com/vorlaxen-labs/bar-js) (`@vorlaxen-labs/bar-js`) writes the JSON envelope for Express and Fastify: status, body, request id. No runtime dependencies.
 
-### Active Projects
-*   **BaR (Builder a Response)**: A specialized toolkit designed to standardize and streamline backend response structures for modern web applications.
-*   **HuK (Helper & Utility Kit)**: A lightweight, modular TypeScript utility library providing a "smart helper" ecosystem for string manipulation, security, and environment management.
+[huk-js](https://github.com/vorlaxen-labs/huk-js) (`@vorlaxen-labs/huk-js`) is a TypeScript utility library, also with nothing bundled in. Turkish-aware slugify, validation, a bit of crypto, storage that does not break during SSR.
 
-Core Focus Areas
+[agent-skills](https://github.com/vorlaxen-labs/agent-skills) is the CLI we use to drop `SKILL.md` files into Cursor, Claude Code, Copilot, Windsurf, Codex, and Gemini. The packs are in [skills-hub](https://github.com/vorlaxen-labs/skills-hub).
 
-### Core Focus Areas
-*   **Advanced Web Security**: Researching JWT vulnerabilities and implementing robust authentication protocols.
-*   **Backend Excellence**: Crafting scalable API architectures with Node.js, TypeScript, and Redis.
-*   **System Optimization**: Hardware-level performance tuning and thermal management for high-demand environments.
+[scam-lens-for-discord](https://github.com/vorlaxen-labs/scam-lens-for-discord) watches a Discord server for scam images and bad domains.
 
----
+[AratMicro](https://github.com/vorlaxen-labs/AratMicro) is a micromouse for Robosam and the MEB robot competition. C++, KiCad, PlatformIO.
 
-### 📬 Connect with Us
-- **Website:** [vorlaxen.com](https://vorlaxen.com)
-- **Inquiries:** [labs@vorlaxen.com](mailto:labs@vorlaxen.com)
-- **Status:** Actively building and optimizing.
+[kargomucuz-sdk](https://github.com/vorlaxen-labs/kargomucuz-sdk) is the TypeScript SDK for Kargomucuz.
 
----
-> *"Engineering is not just about writing code; it's about building resilient systems that last."*
+## Contact
+
+[vorlaxen.com](https://www.vorlaxen.com) · [hello@vorlaxen.com](mailto:hello@vorlaxen.com)
