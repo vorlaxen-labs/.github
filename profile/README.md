@@ -5,7 +5,6 @@
 [![bar-js](https://img.shields.io/npm/v/%40vorlaxen-labs/bar-js?label=bar-js&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/bar-js)
 [![huk-js](https://img.shields.io/npm/v/%40vorlaxen-labs/huk-js?label=huk-js&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/huk-js)
 [![agent-skills](https://img.shields.io/npm/v/%40vorlaxen-labs/agent-skills?label=agent-skills&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/agent-skills)
-[![XERJ Hub](https://img.shields.io/badge/XERJ_Hub-bar--js-7c3aed)](https://hub.xerj.org/corpus/vorlaxen-labs--bar-js)
 
 Vorlaxen Labs is an independent global organization. We turn what fascinates us into things people use. The public work is open source, mostly TypeScript and Node.js: backend tools, agent skills, and the DevOps around shipping them.
 
