@@ -1,7 +1,6 @@
 # Vorlaxen Labs
 
 [![website](https://img.shields.io/badge/website-vorlaxen.com-0f766e)](https://www.vorlaxen.com)
-[![X](https://img.shields.io/badge/X-vorlaxen-111111?logo=x&logoColor=white)](https://x.com/vorlaxen)
 [![bar-js](https://img.shields.io/npm/v/%40vorlaxen-labs/bar-js?label=bar-js&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/bar-js)
 [![huk-js](https://img.shields.io/npm/v/%40vorlaxen-labs/huk-js?label=huk-js&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/huk-js)
 [![agent-skills](https://img.shields.io/npm/v/%40vorlaxen-labs/agent-skills?label=agent-skills&color=CB3837)](https://www.npmjs.com/package/@vorlaxen-labs/agent-skills)
